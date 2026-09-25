@@ -1,0 +1,22 @@
+{
+    "26b3d599-a270-4b3e-d4ef-47b1942b8b16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACIAAAAAAAAgIgAAAAAAASIiAAAAABAhIiIAAAAAECEiIgAAAAAQISIiAAAAABAhIiIAAAAAECEiIgAAAAAAASIiAAAAAAAAICIAAAAAAAAAIgAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImages.image0"
+    },
+    "11210241-4b45-4df4-e417-3f39dedf1896": {
+        "data": "hwQQABAAAAAAAAAAmQkAAAAAAJmZCZkAAACQmZkJmQkAAJkAAJmZAAAAmQCZmZkJAACZmZmZmZkAAJmZCQAAmQAAmQkAkJmQAJCZmZmZmZkAAJkJAACZmQAAmZmZmZmZAACQmZmQmZkAAACQmQkJAAAAAACZmQAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImages.image1"
+    },
+    "4954e49f-a7c8-44ef-314c-690fb8ff42dd": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAFUAAAAAAABQVQAAAAAAAEVEAAAAAABQREQAAAAAAEUkIgAAAABQRCIiAAAAAABFJCIAAAAAAFBERAAAAAAAAEVEAAAAAAAAUFUAAAAAAAAAVQAAAAAAAABQAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImages.image2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
